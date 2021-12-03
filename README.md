@@ -1,3 +1,3 @@
 # first-repository
 first repository
-my first commit
+first commit
